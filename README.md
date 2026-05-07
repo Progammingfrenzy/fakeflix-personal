@@ -1,4 +1,5 @@
 ## Portfolio Note
+# FakeFlix Continue Watching Project
 
 This repository is a personal portfolio copy of a completed course project. It is shared to demonstrate my software development experience for interviews.
 
