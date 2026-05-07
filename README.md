@@ -1,4 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dx6d5bBf)
+## Portfolio Note
+
+This repository is a personal portfolio copy of a completed course project. It is shared to demonstrate my software development experience for interviews.
+
+Some starter/team project code may be included for context. My main contributions are described below. Sensitive environment variables and API keys are intentionally not included.
+
+## My Contributions
+
+- Worked on frontend feature integration in a React-based streaming app
+- Helped implement/debug a Continue Watching feature
+- Worked with Redux actions, reducers, selectors, and persisted state
+- Troubleshot build and import issues
+- Worked with API/Firebase configuration through environment variables
+
+
 <a href="https://fakeflix.th3wall.codes">
   <img alt="Fakeflix – Not the usual clone that you can find on the web" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/Fakeflix/Fakeflix_readme.png">
   <h1 align="center">Fakeflix</h1>
